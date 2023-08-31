@@ -12,6 +12,13 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Mostrar Usuarios</title>
+        <style>
+            *{
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
         <h1>Lista de Usuarios registrados</h1>
